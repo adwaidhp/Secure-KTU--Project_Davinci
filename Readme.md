@@ -9,7 +9,7 @@ The "Secure-KTU" project is aimed to do the vulnerability assessment of KTU webs
 The fixing of these vulnerabilities is necessary as soon as possible to prevent potential risks and secure user data before any attacker can exploit vulnerabilities. It’s vital for both ongoing and future website operations, especially as the website's user base grows.
 
 ## How?
-The project aims at maintaining the vulnerability assessment reports and findings about the ktu website. This github repository submitted by us only contains the findings and not the actual endpoints. The findings with unredacted endpoints have been sent to rvdp@nciipc.gov.in, 10 days prior to the submission of the project.
+The project aims at maintaining the vulnerability assessment reports and findings about the ktu website. This github repository submitted by us only contains the findings and not the actual endpoints. The findings with unredacted endpoints have been sent to rvdp@nciipc.gov.in, prior to the submission of the project.
 
 ![Screenshot 2024-11-14 152130](https://github.com/user-attachments/assets/397ad3e9-cf44-4e99-b506-948eaff8b2ab)
 
